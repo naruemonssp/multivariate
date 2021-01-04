@@ -21,5 +21,6 @@
 
 - อธิบายวิธีเซฟไฟล์จาก google colab ลงใน github
 1.file 2.บันทึกสำเนาใน github
-
+!(1.jpg)
 3.ตั้งชื่อไฟล์ 4.อัพเดตcommit 5.ok
+!(2.jpg)
